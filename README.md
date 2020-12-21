@@ -1,4 +1,4 @@
-# www.soundcloud.com sitesinin frontend birebir yeniden tasarımı 
+# www.soundcloud.com sitesinin frontend birebir yeniden tasarımı file:///C:/Users/Umut%20Kemal%20AYDIN/Desktop/umut-kemal-aydin.github.io/index.html adresinde
 ## BS435 Web Programlama 1 Dersi Vize Ödevi
 ### Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü  
 
