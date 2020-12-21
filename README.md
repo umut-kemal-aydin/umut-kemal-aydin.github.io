@@ -8,7 +8,7 @@ Tasarlayan: **Umut Kemal AYDIN**
 
 # Dosyalar
 
-1. soundcloud.html
+1. index.html
 2. hakkimda.html
 3. style.css
  
