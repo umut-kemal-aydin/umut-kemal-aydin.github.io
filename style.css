@@ -1,0 +1,548 @@
+body {
+  background-color: rgb(242, 242, 242);
+  margin: 0px;
+}
+#hakkimda {
+  height: 80px;
+  width: 200px;
+  position: fixed;
+  margin-top: 400px;
+  margin-left: 15px;
+  background-color: #f50;
+}
+#hakkimdakismi{
+  text-decoration: none;
+  font-size: 20px;
+  color: #fff;
+  font-weight: normal;
+}
+
+#yaraticilericin2 {
+  text-decoration: none;
+  color: black;
+  font: 13px/1.4 Lucida Grande, Lucida Sans Unicode, Lucida;
+}
+#kapsayici {
+  width: 1240px;
+  height: 2535px;
+  margin: auto;
+  background-color: white;
+}
+#div0{
+  height: 4px;
+  background-color: orangered;
+}
+#div1 {
+  height: 450px;
+  width: 1240px;
+  background-image: url("1a.jpg");
+}
+#baslik1 {
+  color: white;
+  margin: 0;
+  position: absolute;
+  margin-top: 140px;
+  margin-left: 424px;
+  text-align: center;
+  font-size: 33px;
+  font-style: inherit;
+  font-weight: 80;
+  font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
+    Garuda, Verdana, Tahoma, sans-serif;
+}
+#yazi1 {
+  position: absolute;
+  margin: 0;
+  color: white;
+  font-size: 19px;
+  text-align: center;
+  margin-top: 193px;
+  max-width: 530px;
+  text-align: center;
+  margin-left: 350px;
+  font-weight: 100;
+}
+#Ucretsizkaydol {
+  position: absolute;
+  margin-top: 265px;
+  margin-left: 510px;
+  background-color: #f50;
+  color: #fff;
+  font-size: 18px;
+  height: 46px;
+  line-height: 46px;
+  border-style: none;
+  padding: 0 46px;
+  border-radius: 4px;
+  cursor: pointer;
+  text-shadow: none;
+  white-space: nowrap;
+  text-align: center;
+}
+#oturumac {
+  position: absolute;
+  background: transparent;
+  font-size: 14px;
+  color: white;
+  border: 1px solid white;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-left: 875px;
+  margin-top: 20px;
+  padding: 4px 20px;
+  text-align: center;
+}
+#hesapolustur {
+  background-color: #f50;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  position: absolute;
+  font-size: 14px;
+  border-style: none;
+  margin-top: 20px;
+  padding: 5px 20px;
+  margin-left: 987px;
+  border-radius: 3px;
+}
+#yaraticilericin {
+  position: absolute;
+  text-decoration: none;
+  color: white;
+  margin-left: 1120px;
+  margin-top: 24px;
+  font: 13px/1.4 Lucida Grande, Lucida Sans Unicode, Lucida;
+}
+#div2 {
+  height: 100px;
+  width: 1180px;
+  background-color: white;
+  margin: auto;
+}
+#input1 {
+  position: absolute;
+  padding: 6px;
+  width: 556px;
+  border: none;
+  margin-right: 16px;
+  font-size: 17px;
+  background-color: rgb(242, 242, 242);
+  margin-left: 100px;
+  height: 46px;
+  border-radius: 5px;
+  margin-top: 45px;
+  padding-left: 14px;
+}
+#arama {
+  position: absolute;
+  font-size: 60px;
+  height: 46px;
+  width: 46px;
+  background-image: url(arama.png);
+  background-size: 46px 46px;
+  border-style: none;
+  margin-top: 45px;
+  margin-left: 650px;
+  border-radius: 5px;
+}
+#yazi2 {
+  position: absolute;
+  font-size: 16px;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Garuda,
+    Verdana, Tahoma, sans-serif;
+  margin-left: 720px;
+  margin-top: 55px;
+  color: #333;
+}
+#kendinizinkiniyukleyin {
+  text-decoration: none;
+  position: absolute;
+  background-color: rgb(255, 85, 0);
+  color: white;
+  margin-top: 45px;
+  margin-left: 775px;
+  text-align: center;
+  padding: 11px 25px;
+  font-family: Interstate, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",
+    Garuda, Verdana, Tahoma, sans-serif;
+  border-radius: 3px;
+}
+#div3 {
+  height: 53px;
+  width: 1180px;
+  margin-top: 25px;
+  text-align: center;
+}
+#yazi3 {
+  color: rgb(51, 51, 51);
+  font-size: 24px;
+  font-family: Interstate, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",
+    Garuda, Verdana, Tahoma, sans-serif;
+  font-stretch: 100%;
+  font-weight: 400;
+}
+#kapsayici2 {
+  height: 650px;
+  width: 1240px;
+}
+.div4 {
+  height: 240px;
+  width: 180px;
+  float: left;
+  margin: 10px 13px;
+}
+#div4a {
+  width: 180px;
+  height: 180px;
+  background-image: url(foto1.png);
+  background-size: 180px 180px;
+}
+#div4b {
+  width: 180px;
+  height: 180px;
+  background-image: url(foto2.png);
+  background-size: 180px 180px;
+}
+#div4c {
+  width: 180px;
+  height: 180px;
+  background-image: url(foto3.png);
+  background-size: 180px 180px;
+}
+#div4d {
+  width: 180px;
+  height: 180px;
+  background-image: url(foto4.png);
+  background-size: 180px 180px;
+}
+#div4e {
+  width: 180px;
+  height: 180px;
+  background-image: url(foto5.png);
+  background-size: 180px 180px;
+}
+#div4f {
+  width: 180px;
+  height: 180px;
+  background-image: url(foto6.png);
+  background-size: 180px 180px;
+}
+#div4g {
+  width: 180px;
+  height: 180px;
+  background-image: url(foto7.png);
+  background-size: 180px 180px;
+}
+#div4h {
+  width: 180px;
+  height: 180px;
+  background-image: url(foto8.png);
+  background-size: 180px 180px;
+}
+#div4i {
+  width: 180px;
+  height: 180px;
+  background-image: url(foto9.png);
+  background-size: 180px 180px;
+}
+#div4j {
+  width: 180px;
+  height: 180px;
+  background-image: url(foto10.png);
+  background-size: 180px 180px;
+}
+#div4k {
+  width: 180px;
+  height: 180px;
+  background-image: url(foto11.png);
+  background-size: 180px 180px;
+}
+#div4l {
+  width: 180px;
+  height: 180px;
+  background-image: url(foto12.png);
+  background-size: 180px 180px;
+}
+.div4yazi1 {
+  width: 180px;
+  height: 19px;
+  overflow: hidden;
+}
+.div4yazi2 {
+  width: 180px;
+  height: 17px;
+  overflow: hidden;
+}
+.ayazi1 {
+  text-decoration: none;
+  color: #000;
+  font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
+    Garuda, Verdana, Tahoma, sans-serif;
+  font-size: 13px;
+  font-weight: 100;
+}
+.ayazi2 {
+  text-decoration: none;
+  color: #999;
+  font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
+    Garuda, Verdana, Tahoma, sans-serif;
+  font-size: 12px;
+}
+.ayazi2:hover {
+  text-decoration: none;
+  color: black;
+  font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
+    Garuda, Verdana, Tahoma, sans-serif;
+  font-size: 12px;
+}
+#trendolan {
+  font-size: 17px;
+  display: block;
+  text-decoration: none;
+  margin-top: 535px;
+  margin-left: 435px;
+  position: absolute;
+  background-color: rgb(255, 85, 0);
+  color: white;
+  text-align: center;
+  padding: 11px 25px;
+  font-family: Interstate, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",
+    Garuda, Verdana, Tahoma, sans-serif;
+  border-radius: 3px;
+}
+#div5 {
+  padding-top: 70px;
+  width: 1240px;
+  height: 450px;
+  background-color: rgb(242, 242, 242);
+}
+#div5a {
+  height: 450px;
+  width: 730px;
+  margin-left: 70px;
+  background-size: 730px 450px;
+  background-image: url(mobilfoto.jpg);
+  float: left;
+}
+#div5b {
+  margin-left: 835px;
+  height: 103px;
+  width: 325px;
+}
+#div5ayazi1 {
+  font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
+    Garuda, Verdana, Tahoma, sans-serif;
+  font-size: 30px;
+  color: rgb(51, 51, 51);
+  font-weight: 100;
+  max-width: 600px;
+}
+#div5b1 {
+  margin-top: -9px;
+  height: 3px;
+  width: 65px;
+  background-image: linear-gradient(90deg, #7d01a1, #f30 50%, #f50);
+}
+#div5c {
+  font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
+  Garuda, Verdana, Tahoma, sans-serif;
+  font-size: 22px;
+  display: block;
+  padding-left: 835px;
+  max-width: 332px;
+  margin-top: 40px;
+}
+#div5d {
+  padding: 0;
+  margin-top: 60px;
+  height: 60px;
+  width: 350px;
+  margin-left: 835px;
+}
+#div5d1 {
+  height: 40px;
+  width: 135px;
+  margin-left: 8px;
+  background-size: 135px 40px;
+  background-image: url(appstore.png);
+  border-radius: 4px;
+}
+#div5d2 {
+  margin-top: -60px;
+  margin-left: 185px;
+  height: 40px;
+  width: 115px;
+  float: left;
+  border-radius: 4px;
+  background-size: 115px 40px;
+  background-image: url(googleplay.png);
+}
+#div6 {
+  width: 1240px;
+  height: 350px;
+  background-image: url(div5.jpg);
+}
+#div6a {
+  position: absolute;
+  margin-left: 70px;
+  margin-top: 60px;
+  width: 520px;
+  height: 230px;
+}
+#div6a1font {
+  color: white;
+  font-size: 33px;
+  font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
+    Garuda, Verdana, Tahoma, sans-serif;
+}
+#div6b {
+  position: absolute;
+  color: white;
+  max-width: 520px;
+  font-size: 26px;
+  font-style: normal;
+}
+#div6a2 {
+  position: absolute;
+  margin-top: 143px;
+}
+#div6a2a {
+  color: white;
+  font-size: 18px;
+  font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
+    Garuda, Verdana, Tahoma, sans-serif;
+  text-decoration: none;
+  border-style: solid;
+  border-radius: 3px;
+  border-color: rgb(229, 229, 229);
+  padding: 5px 15px;
+  border-width: 1px;
+}
+#div7 {
+  position: absolute;
+  margin: auto;
+  width: 1240px;
+  height: 350px;
+  background-color: white;
+}
+#div7a {
+  position: absolute;
+  margin-top: 60px;
+  width: 1240px;
+}
+#div7a1font {
+  font-size: 33px;
+  margin-left: 300px;
+  font-family: Interstate, Lucida Grande, Lucida Sans Unicode, Lucida Sans,
+    Garuda, Verdana, Tahoma, sans-serif;
+  color: #333; 
+}
+#div7a1 {
+  position: absolute;
+  font-size: 28px;
+  font-style: normal;
+  margin-left:170px;
+  margin-top:115px;
+  color: #333;
+}
+#div7a2{
+  position: absolute;
+  margin-left: 525px;
+  margin-top: 164px;
+  background-color: rgb(255, 85, 0);
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+  padding: 10px 58px;
+  font-size: 20px;
+}
+#div7a3{
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 230px;
+  font: 13px/1.4 Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;
+  color: #333;
+}
+#div7a4{
+  position: absolute;
+  text-decoration: none;
+  font-weight: lighter;
+  padding: 10px 15px;
+  margin-left: 665px;
+  margin-top: 218px;
+  border-radius: 3px;
+  border: 0.1px solid lightgray;
+  font-size: 18.5px;
+  height: 20px;
+  color: #333;
+}
+#div8{
+  margin-top: 350px;
+  width: 1240px;
+  height: 200px;
+  background-color: white;
+}
+#div8a{
+  position: absolute;
+  margin: auto;
+  margin-top:30px;
+  margin-left: 30px;
+}
+.div8a1{
+  text-decoration: none;
+  color: #ccc;
+}
+.div8a1:hover{
+  text-decoration: none;
+  color: gray;
+}
+.div8b1{
+  color: #ccc;
+}
+#div8c{
+  position: absolute;
+  margin-top:65px;
+  margin-left: 30px;
+}
+.div8c1{
+  text-decoration: none;
+  color:#38d;
+}
+.div8c1:hover{
+  text-decoration: none;
+  color:gray;
+}
+#div8d{
+  color:gray;
+}
+/*HAKKIMDA KISMI İÇİN KODLAR*/
+/*HAKKIMDA KISMI İÇİN KODLAR*/
+/*HAKKIMDA KISMI İÇİN KODLAR*/
+.kutular{
+  border: solid;
+  background-color:#ccc;
+  text-align: center;
+  font-weight: bolder;
+  color: royalblue;
+}
+#divgrup1{
+  width: 1240px;
+  height: 260px;
+  margin:auto;
+}
+#divgrup2{
+  width: 1240px;
+  height: 200PX;
+  margin:auto;
+}
+#divgrup3{
+  width: 1240px;
+  height: 150PX;
+  margin:auto;
+}
+#divgrup4{
+  width: 1240px;
+  height: 150PX;
+  margin:auto;
+}
